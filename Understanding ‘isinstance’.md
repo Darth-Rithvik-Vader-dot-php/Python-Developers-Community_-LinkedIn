@@ -1,0 +1,1 @@
+The isinstance() function in Python checks if an object is an instance or subclass instance of a particular class or type. It returns True if the object is an instance of the specified types; otherwise, it returns False.
